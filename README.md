@@ -1,5 +1,3 @@
-# hello-world
-my first repository
 # ABOUT ME
 Hi, I'm Elizabeth!
 I'm a digital illustrator and watercolorist who wants to make a video game someday!
